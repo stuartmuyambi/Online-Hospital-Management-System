@@ -1,0 +1,32 @@
+html, body{
+    height: 100%;
+}
+.hide-scroll{
+    margin: 0;
+    overflow: hidden;
+}
+.bg-styles{
+    background-image: linear-gradient(to top, #642e01 0%, #3d3d3d 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-container{
+    background-color: #fff;
+    width: 450px;
+    height: 550px;
+    margin-top: 80px;
+    border-radius: 6px;
+    padding-top: 35px;
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.3),0 7px 20px 0 rgba(0,0,0,0.5);
+    margin-left: 500px;
+}
+.form-wrap{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.color{
+    color: rgb(255, 72, 0);
+}
+.color:hover{
+    color: rgb(255, 70, 14);
+}
